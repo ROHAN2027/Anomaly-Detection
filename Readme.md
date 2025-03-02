@@ -1,4 +1,7 @@
 # Content-Based Recommendation System
+## Anomaly Detection Video
+
+![Anomaly Detection](Anomaly Detection Output.gif)
 
 This repository contains a content-based recommendation system built using the MovieLens dataset. The system recommends movies based on their content, such as titles and genres.
 ## Overview
